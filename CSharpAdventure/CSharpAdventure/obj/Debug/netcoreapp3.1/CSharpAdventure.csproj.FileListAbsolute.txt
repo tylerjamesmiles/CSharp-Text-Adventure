@@ -1,0 +1,13 @@
+D:\Dev\Fun\CSharpAdventure\CSharpAdventure\bin\Debug\netcoreapp3.1\CSharpAdventure.exe
+D:\Dev\Fun\CSharpAdventure\CSharpAdventure\bin\Debug\netcoreapp3.1\CSharpAdventure.deps.json
+D:\Dev\Fun\CSharpAdventure\CSharpAdventure\bin\Debug\netcoreapp3.1\CSharpAdventure.runtimeconfig.json
+D:\Dev\Fun\CSharpAdventure\CSharpAdventure\bin\Debug\netcoreapp3.1\CSharpAdventure.runtimeconfig.dev.json
+D:\Dev\Fun\CSharpAdventure\CSharpAdventure\bin\Debug\netcoreapp3.1\CSharpAdventure.dll
+D:\Dev\Fun\CSharpAdventure\CSharpAdventure\bin\Debug\netcoreapp3.1\CSharpAdventure.pdb
+D:\Dev\Fun\CSharpAdventure\CSharpAdventure\obj\Debug\netcoreapp3.1\CSharpAdventure.csprojAssemblyReference.cache
+D:\Dev\Fun\CSharpAdventure\CSharpAdventure\obj\Debug\netcoreapp3.1\CSharpAdventure.csproj.CoreCompileInputs.cache
+D:\Dev\Fun\CSharpAdventure\CSharpAdventure\obj\Debug\netcoreapp3.1\CSharpAdventure.AssemblyInfoInputs.cache
+D:\Dev\Fun\CSharpAdventure\CSharpAdventure\obj\Debug\netcoreapp3.1\CSharpAdventure.AssemblyInfo.cs
+D:\Dev\Fun\CSharpAdventure\CSharpAdventure\obj\Debug\netcoreapp3.1\CSharpAdventure.dll
+D:\Dev\Fun\CSharpAdventure\CSharpAdventure\obj\Debug\netcoreapp3.1\CSharpAdventure.pdb
+D:\Dev\Fun\CSharpAdventure\CSharpAdventure\obj\Debug\netcoreapp3.1\CSharpAdventure.genruntimeconfig.cache
